@@ -17,9 +17,10 @@ bash <(curl -s https://raw.githubusercontent.com/jiankujidu/elecV2P/main/termux/
 ./v2p.sh
 ```
 # 启动以后浏览器打开
+* 访问elecV2P
 ```sh
 127.0.0.1:8000
 ```
-进入v2p面板，剩下的自己就奔放吧
+* 进入elecV2P面板，剩下的自己就奔放吧
 
 # 如何和青龙面版共存自己先研究，研究不出来，我在出教程
